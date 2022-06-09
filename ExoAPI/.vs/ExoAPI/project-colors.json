@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "64a2e0ff-069e-4f49-8fe9-9fc45c085b81": {
+      "ProjectGuid": "64a2e0ff-069e-4f49-8fe9-9fc45c085b81",
+      "DisplayName": "ExoAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
